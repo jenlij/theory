@@ -1,5 +1,6 @@
 // http://codingfreak.blogspot.com/2012/09/detecting-loop-in-singly-linked-list_22.html
-// Detecting a loop in a singly linked list (tortoise and hare problem)
+//Tortoise and the Hare problem
+// Detecting a loop in a singly linked list
 
 //Two pointers: slow_pointer (tortoise), fast_pointer (hare)
 //Slow_pointer moves at speed t, fast_pointer moves at speed 2t
