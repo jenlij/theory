@@ -1,4 +1,4 @@
-//first n fibonacci numbers
+// find the first n fibonacci numbers
 function fibonacci(x, y, n) {
     if (n === 0) {
         return
